@@ -1,0 +1,1 @@
+This file is for pushing to git-hub after cloning the repo crap-portfolio which i should have cloned not in another directory but inside the git-hub folder only. Keep this in the mind that whatever you are going to clone will come down as a directory and you dont have to do git-init for that.
